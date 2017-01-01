@@ -1,0 +1,115 @@
+.container{
+    margin-top: 6em;
+    margin-bottom: 3em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    background-color: #e7e7e7;
+    border-radius: 0.5em;
+}
+
+main {
+	padding-top: 2em;
+}
+
+footer {
+	background-color: black;
+	color: white;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+ul>li{
+	list-style:none;
+	display: inline;
+	padding-left: 3em;
+}
+.panel-body ul>a>li{
+	list-style:none;
+	border-bottom: 1px solid #000000;
+	padding: 1em;
+	margin-right: 1em;
+	color: black;
+}
+
+.panel-body ul>a>li:hover{
+
+	font-weight: bold;
+}
+a:link   
+{   
+	
+	color: black;
+	text-decoration:none;   
+} 
+
+.panel-info {
+	background-color: rgb(214, 214, 194);
+	opacity: 0.7;
+	margin-top: -5em;
+	padding-left: 1em;
+	padding-right: 2em;
+	padding-top: 0.1em;
+	padding-bottom: 0.4em;
+	border-bottom-left-radius: 0.6em;
+	border-top-right-radius: 3em;
+	position: absolute;
+}
+
+.viaje{
+	margin-bottom: 4em;
+}
+
+body {
+	
+}
+
+h1 {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.logo {
+
+	margin-top: -1.3em;
+	width: 80%;
+}
+
+// Product Css
+.cabecera {
+
+	width: 100%;
+	height: 3em;
+	background-color: rgb(214, 214, 214);
+	color: white;
+	border-bottom-right-radius: 1em;
+}
+
+
+.map>.img-thumbnail {
+
+	height: 360px;
+	width: 500px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+.video>.img-responsive {
+
+	height: 350px;
+}
+
+.row-head{
+	margin-bottom: 8em;
+}
+
+.row-one {
+
+	background-color: white;
+}
